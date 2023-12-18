@@ -1,2 +1,2 @@
-# Yandex_practicum
+# PySpark
 проекты_учеба
